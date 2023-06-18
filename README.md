@@ -1,34 +1,82 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- PROJECT LOGO -->
+<div align="center">
+  <h1 align="center">biofidelicX academy</h1>
 
-## Getting Started
+  <p align="center">
+    Welcome to biofidelicX academy, your ultimate life & earth science destination. From exam preparation to cutting-edge research, we offer an engaging and informative learning experience. Learn, Explore, Discover with us today.
+    <br />
+    <br />
+    <a href="https://biofxacademy.com/">View Demo</a>
+    ·
+    <a href="https://github.com/hrshainik/biofxacademy/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/hrshainik/biofxacademy/issues">Request Feature</a>
+  </p>
+</div>
 
-First, run the development server:
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<!-- ABOUT THE PROJECT -->
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## About The Project
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+[![Product Name Screen Shot][product-screenshot]](https://biofxacademy.com/)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+biofidelicX diary is the ideal location to stay informed and up-to-date on the most recent research and discoveries in bio-science, whether you're a student, a scientist, or simply someone with a passion for learning about the natural world.
 
-## Learn More
+<p align="right"><a href="#top">⇧Back To Top</a></p>
 
-To learn more about Next.js, take a look at the following resources:
+### Built With
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Sass](https://sass-lang.com/)
+- [hygraph CMS](https://hygraph.com/)
+- [GraphQL](https://graphql.org/)
+- [Swiper](https://swiperjs.com/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<p align="right"><a href="#top">⇧Back To Top</a></p>
 
-## Deploy on Vercel
+<!-- CONTRIBUTING -->
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contributing
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right"><a href="#top">⇧Back To Top</a></p>
+
+<!-- CONTACT -->
+
+## Contact
+
+Habibur Rahman - [@portfoilo](https://hrshainik.me) - hrsshainik@gmail.com
+
+Project Link: [https://github.com/hrshainik/biofxacademy](https://github.com/hrshainik/biofxacademy)
+
+<p align="right"><a href="#top">⇧Back To Top</a></p>
+
+[product-screenshot]: public/product.jpg
